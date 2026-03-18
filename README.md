@@ -27,3 +27,8 @@ This folder contains a LangGraph-based “LLM council” implementation inspired
 - **Difference**: the chairman prompt instructs it not to mention internal labels/provenance in the user-facing final answer.
 - **Why**: keeps the user-visible output product-like while still letting the chair use evaluator reasoning text.
 - **Tradeoff**: prompt contract differs slightly from Karpathy.
+
+## UV Setup
+
+Create/refresh the virtual environment and install pinned dependencies:
+- `uv sync --locked`
