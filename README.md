@@ -35,3 +35,4 @@ Create/refresh the virtual environment and install pinned dependencies:
 
 ## TODO:
 1. Use OpenRouter instead of placeholder OpenAI api and models
+2. Convert to Python scripts from Jupyter notebook
