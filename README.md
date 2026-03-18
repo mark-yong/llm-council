@@ -32,3 +32,6 @@ This folder contains a LangGraph-based “LLM council” implementation inspired
 
 Create/refresh the virtual environment and install pinned dependencies:
 - `uv sync --locked`
+
+## TODO:
+1. Use OpenRouter instead of placeholder OpenAI api and models
